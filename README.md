@@ -1,6 +1,6 @@
 ### Mobile Application Developer | React Native
 
-![Header Image](github-header-image%20(7).png)
+![Header Image](github-header-banner.png)
 
 ---
 
