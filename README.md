@@ -20,6 +20,7 @@ I enjoy building **scalable, production-ready apps** with clean architecture, st
 <code><img height="22" alt="react-native" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png"></code>
 <code><img height="22" alt="flutter" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"></code>
 <code><img height="22" alt="android" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png"></code>
+<code><img height="22" alt="ios" src="https://raw.githubusercontent.com/github/explore/main/topics/ios/ios.png"></code>
 
 ## Languages
 <code><img height="22" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
