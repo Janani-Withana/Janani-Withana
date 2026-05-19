@@ -11,7 +11,7 @@ I enjoy building **scalable, production-ready apps** with clean architecture, st
 
 - 🎓 BSc (Hons) in Software Engineering – **SLIIT**
 - 💼 **Associate Software Engineer (Mobile – React Native)** at **WebAppClouds**
-- 💼 **React Native Developer (Part-Time)** at **LilyLanka**
+- 💼 **React Native Developer (Freelancing)** at **LilyLanka**
 - 🌱 Passionate about mobile architecture, performance optimization & clean code
 - 🌐 Portfolio: [janani-withana-portfolio.vercel.app](https://janani-withana-portfolio.vercel.app)
   
